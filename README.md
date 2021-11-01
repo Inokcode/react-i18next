@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+i18next
+react-i18next
+https://dev.to/adrai/how-to-properly-internationalize-a-react-application-using-i18next-3hdb
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
